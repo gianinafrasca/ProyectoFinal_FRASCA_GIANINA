@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "1",
+        "nombre": "Taylor Swift",
+        "imagen": "taylorswift.jpg",
+        "fecha": "10 de noviembre",
+        "lugar": "River",
+        "precio": 80000
+    },
+    {
+        "codigo": "2",
+        "nombre": "Bruno Mars",
+        "imagen": "brunomars.jpg",
+        "fecha": "27 de noviembre",
+        "lugar": "Estadio Único",
+        "precio": 85000
+    },
+    {
+        "codigo": "3",
+        "nombre": "RHCP",
+        "imagen": "rhcp.jpg",
+        "fecha": "5 de octubre",
+        "lugar": "River",
+        "precio": 55000
+    },
+    {
+        "codigo": "4",
+        "nombre": "Tan Biónica",
+        "imagen": "tanbionica.jpg",
+        "fecha": "4 de noviembre",
+        "lugar": "Estadio Único",
+        "precio": 30000
+    },
+    {
+        "codigo": "5",
+        "nombre": "Evanescence",
+        "imagen": "evanescence.jpg",
+        "fecha": "20 de septiembre",
+        "lugar": "Movistar Arena",
+        "precio": 95000
+    },
+    {
+        "codigo": "6",
+        "nombre": "Billie Eilish",
+        "imagen": "billieeilish.jpg",
+        "fecha": "16 de marzo",
+        "lugar": "Lollapalooza",
+        "precio": 55000
+    }
+]
